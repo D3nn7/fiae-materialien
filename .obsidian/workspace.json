@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/abstract vs open fun.md",
+                "file": "Android/coroutines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abstract vs open fun"
+              "title": "coroutines"
             }
           }
         ],
@@ -198,10 +198,21 @@
   },
   "active": "b9b8ca2b9dd7614c",
   "lastOpenFiles": [
-    "Kotlin/OOP.md",
-    "Kotlin/higher-order functions & Lamdba.md",
-    "Kotlin/abstract vs open fun.md",
+    "Android/sql-and-room.md",
+    "Android/coroutines.md",
+    "Android/foreground-service.md",
+    "Android/fused-location-provider.md",
+    "Android/recyclerview.md",
+    "Android/debugging.md",
+    "Android/fragments.md",
+    "Android/gradle.md",
+    "Android/viewmodel.md",
+    "Android/permissions.md",
     "Versionskontrolle mit Git.md",
+    "Kotlin/abstract vs open fun.md",
+    "Kotlin/higher-order functions & Lamdba.md",
+    "README.md",
+    "Kotlin/OOP.md",
     "Nicht bestätigt 823046.crdownload",
     "2025-09-04.md",
     "Kotlin/Lambda.md",

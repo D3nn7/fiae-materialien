@@ -41,7 +41,7 @@ Typische Anwendungsfälle:
 > **Room ist der empfohlene Standard für Android.**
 
 Offizielle Referenz:  
-[https://developer.android.com/training/data-storage/room](https://developer.android.com/training/data-storage/room?utm_source=chatgpt.com)
+[https://developer.android.com/training/data-storage/room](https://developer.android.com/training/data-storage/room)
 
 ## 3. Abhängigkeiten einbinden
 

@@ -2,8 +2,6 @@
 
 **Performante Listen und sauberes Recycling**
 
----
-
 ## Ziel dieses Dokuments
 
 Nach der Durcharbeitung dieses Dokuments kannst du:
@@ -234,5 +232,5 @@ class ListItemAdapter(
 
 ## 15. Offizielle Quellen
 - [RecyclerView Overview](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-- [ViewHolder Pattern](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder?utm_source=chatgpt.com)
+- [ViewHolder Pattern](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder)
 - [DiffUtil](https://developer.android.com/reference/androidx/recyclerview/widget/DiffUtil)

@@ -22,18 +22,18 @@ Git speichert den Projektstand als sogenannte Snapshots. Jeder Commit speichert 
 - **Remote:** Git-Server (z. B. GitHub) dienen zur Zusammenarbeit.
 
 ## Wichtige Git-Befehle
-| Befehl | Bedeutung |
-|--------|-----------|
-| `git init` | Erstellt ein neues lokales Repository |
-| `git clone [URL]` | Klont ein entferntes Repository |
-| `git add [Datei]` | Markiert Datei für den nächsten Commit |
-| `git commit -m "Nachricht"` | Speichert Änderungen dauerhaft im lokalen Repository |
-| `git status` | Zeigt aktuellen Status der Dateien |
-| `git log` | Zeigt Verlauf der Commits |
-| `git branch` | Listet Branches auf oder erstellt neue |
-| `git checkout [branch]` | Wechselt zu einem anderen Branch |
-| `git push` | Überträgt Commits zum Remote-Repository |
-| `git pull` | Holt und integriert aktuelle Änderungen vom Remote-Repository |
+| Befehl                      | Bedeutung                                                     |
+| --------------------------- | ------------------------------------------------------------- |
+| `git init`                  | Erstellt ein neues lokales Repository                         |
+| `git clone [URL]`           | Klont ein entferntes Repository                               |
+| `git add [Datei]`           | Markiert Datei für den nächsten Commit                        |
+| `git commit -m "Nachricht"` | Speichert Änderungen dauerhaft im lokalen Repository          |
+| `git status`                | Zeigt aktuellen Status der Dateien                            |
+| `git log`                   | Zeigt Verlauf der Commits                                     |
+| `git branch`                | Listet Branches auf oder erstellt neue                        |
+| `git checkout [branch]`     | Wechselt zu einem anderen Branch                              |
+| `git push`                  | Überträgt Commits zum Remote-Repository                       |
+| `git pull`                  | Holt und integriert aktuelle Änderungen vom Remote-Repository |
 
 ## Typischer Git-Workflow
 1. `git clone` Repository vom Server holen

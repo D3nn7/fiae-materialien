@@ -29,7 +29,7 @@ Moderne Android-Apps müssen:
 - automatische Abbruchlogik
 
 Offizielle Referenz:  
-[https://developer.android.com/topic/libraries/architecture/coroutines](https://developer.android.com/topic/libraries/architecture/coroutines?utm_source=chatgpt.com)
+[https://developer.android.com/topic/libraries/architecture/coroutines](https://developer.android.com/topic/libraries/architecture/coroutines)
 
 ## 2. Grundkonzept von Coroutines
 

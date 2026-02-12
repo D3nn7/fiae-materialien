@@ -1,4 +1,4 @@
-# # RecyclerView & ViewHolder
+# RecyclerView & ViewHolder
 
 **Performante Listen und sauberes Recycling**
 
